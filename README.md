@@ -15,9 +15,9 @@ Extracted feature file will be stored in a JSON format
 Detecting feature of rounded shape
 
 ## Things to be done
-Detecting different shaped feature
-Applying Cluster algorithm
-Extracting Cordinate and converting to JSON format
+* Detecting different shaped feature
+* Applying Cluster algorithm
+* Extracting Cordinate and converting to JSON format
 
 ### Note
 *Approach may change for tools adaptation towards generality*
