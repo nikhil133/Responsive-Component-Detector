@@ -1,7 +1,7 @@
 # Responsive-Component-Detector
 Responsive component Detector is a tool that detects the responsive feature of website or desktop and returns the cordinate values of the same.
 
-##Approach
+## Approach
 
 Features are detected using canny edge detector algorithm.
 Features are marked using closed loop contour on the basis of approximate arc length
@@ -21,5 +21,5 @@ Detecting different shaped feature
 Applying Cluster algorithm
 Extracting Cordinate and converting to JSON format
 
-###Note
+### Note
 *Approach may change for tools adaptation towards generality*
